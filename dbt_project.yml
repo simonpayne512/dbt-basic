@@ -9,7 +9,5 @@ clean-targets:
   - 'target'
   - 'dbt_packages'
 
-models:
-  my_project:
-    +materialized: view
+
 
