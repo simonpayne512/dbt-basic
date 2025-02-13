@@ -2,7 +2,7 @@ name: 'my_project'
 version: '1.0'
 config-version: 2
 
-profile: 'my_profile'
+profile: 'emerald'
 
 target-path: 'target'
 clean-targets:
